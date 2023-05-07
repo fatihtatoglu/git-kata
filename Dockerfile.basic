@@ -1,0 +1,8 @@
+FROM alpine:latest
+
+RUN apk fix && \
+    apk update && \
+    apk upgrade && \
+    apk add git less
+
+WORKDIR /kata

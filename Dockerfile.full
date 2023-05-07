@@ -1,0 +1,9 @@
+FROM alpine:latest
+
+RUN apk fix && \
+    apk update && \
+    apk upgrade && \
+    apk add git less git-lfs gpg openssh patch && \
+    git lfs install
+
+WORKDIR /kata
