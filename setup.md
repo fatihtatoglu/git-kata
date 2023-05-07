@@ -114,4 +114,4 @@ docker run -it --network host tatoglu/git-kata:basic /bin/sh
 
 ## After Staring
 
-With the docker images, the non-configured environment will be ready. But before running the kata scenarios some config should be set. To learn this please check the [config](config.md) scenario.
+With the docker images, the non-configured environment will be ready. But before running the kata scenarios some config should be set. To learn this please check the [Git Configuration](config.md) scenario document.
