@@ -1,4 +1,4 @@
-# Setup Git Kata Environment
+# Setup Environment
 
 Before starting Git Kata hands-on exercises a fully functional Git environment is needed. This document contains how to prepare an isolated and clean git environment every time.
 
@@ -78,7 +78,7 @@ docker pull tatoglu/git-kata:full
 
 Using a docker image is an optional step. However, if this is wanted to skip, don't forget that the environment should be arranged like the first time of the git before and after running every kata scenario.
 
-In addition, please check the below disclaimer, if wanted to use the current git installation without the docker image. 
+In addition, please check the below disclaimer, if wanted to use the current git installation without the docker image.
 
 The Git Kata project is provided as-is and does not come with any warranties or guarantees of any kind. By using the Git Kata project, you acknowledge and agree to the following:
 
