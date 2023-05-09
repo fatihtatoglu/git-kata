@@ -30,7 +30,7 @@ To ensure a smooth and collaborative contribution process, please adhere to the 
 
 ## Code of Conduct
 
-Please note that the Git Kata project follows an [OpenAI Code of Conduct](https://github.com/openai/openai-developer-policy/blob/main/code-of-conduct.md). We expect all contributors to uphold and respect the guidelines outlined in the code of conduct.
+Please note that the Git Kata project follows the [Code of Conduct](CODE-OF-CONDUCT.md). We expect all contributors to uphold and respect the guidelines outlined in the code of conduct.
 
 ## Feedback and Support
 
