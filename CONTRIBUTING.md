@@ -15,7 +15,7 @@ To contribute to the Git Kata project, please follow these steps:
 7. Push your changes to your forked repository using the command `git push origin <branch-name>`.
 8. Open a pull request (PR) against the original repository's `master` branch. Provide a detailed description of your changes in the PR, including the problem you're addressing or the improvement you're suggesting.
 9. Engage in any discussions or feedback regarding your PR and make any necessary adjustments based on the feedback received.
-10. Once your changes have been reviewed and approved, they will be merged into the main repository.
+10. Once your changes have been reviewed and approved, they will be merged into the master repository.
 
 ## Contribution Guidelines
 

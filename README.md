@@ -18,16 +18,17 @@ Git Kata is a hands-on exercise that focuses on different aspects of the Git ver
 
 To get started with the Git Kata, follow these steps:
 
-1. Read the [Setup Environment](setup.md) document.
-2. Read the [Git Configuration](config.md) document.
+1. Read the [Setup Environment](doc/setup.md) document.
+2. Read the [Git Configuration](doc/config.md) document.
 3. Start kating!
 
 ## Kata Scenarios
 
 The Git Kata covers a wide range of topics and scenarios, including:
 
-- Basic Git commands: Init, clone, add, commit, push, pull, merge, and more.
+- Basic Git commands: Init, add, commit, merge, and more.
 - Branching and merging: Creating branches, resolving conflicts, and merging changes.
+- Remote Repositories: Clone, push, pull, and more.
 - Advanced Git workflows: Rebasing, cherry-picking, tagging, and managing submodules.
 - Git hooks: Setting up pre-commit and post-commit hooks for code quality checks.
 - And more!
